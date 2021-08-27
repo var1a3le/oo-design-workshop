@@ -11,6 +11,6 @@ public class HelloWorldTest {
         // Act
         String actual = helloWorld.greeting("New");
         // Assert
-        assertEquals("Hello New", actual);
+        assertEquals("Hello :New", actual);
     }
 }
